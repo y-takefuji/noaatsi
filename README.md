@@ -26,4 +26,4 @@ $ noaatsi
 
 noaatsi.png is finally generated.
 
-<img src='https://github.com/ytakefuji/noaatsi/raw/main/noaatsi.png' height=300 width=900>
+<img src='https://github.com/y-takefuji/noaatsi/raw/main/noaatsi.png' height=300 width=900>
